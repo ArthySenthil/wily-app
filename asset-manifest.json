@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/wily-app/static/js/app.e920627a.chunk.js",
+    "app.js.map": "/wily-app/static/js/app.e920627a.chunk.js.map",
+    "runtime~app.js": "/wily-app/static/js/runtime~app.0d9a03a4.js",
+    "runtime~app.js.map": "/wily-app/static/js/runtime~app.0d9a03a4.js.map",
+    "static/js/2.b7e1b5af.chunk.js": "/wily-app/static/js/2.b7e1b5af.chunk.js",
+    "static/js/2.b7e1b5af.chunk.js.map": "/wily-app/static/js/2.b7e1b5af.chunk.js.map",
+    "favicon-16.png": "/wily-app/favicon-16.png",
+    "favicon-32.png": "/wily-app/favicon-32.png",
+    "favicon.ico": "/wily-app/favicon.ico",
+    "index.html": "/wily-app/index.html",
+    "manifest.json": "/wily-app/manifest.json",
+    "serve.json": "/wily-app/serve.json",
+    "static/js/2.b7e1b5af.chunk.js.LICENSE.txt": "/wily-app/static/js/2.b7e1b5af.chunk.js.LICENSE.txt",
+    "static/media/book.png": "/wily-app/static/media/book.ef7b8d1f.png",
+    "static/media/booklogo.jpg": "/wily-app/static/media/booklogo.7982cd70.jpg",
+    "static/media/searchingbook.png": "/wily-app/static/media/searchingbook.4e7a9d52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.0d9a03a4.js",
+    "static/js/2.b7e1b5af.chunk.js",
+    "static/js/app.e920627a.chunk.js"
+  ]
+}
