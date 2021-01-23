@@ -15,7 +15,7 @@ export default class App extends React.Component {
 
     );
   }
-}
+}         
 
 const TabNavigator = createBottomTabNavigator({
   Transaction: {screen: TransactionScreen},
